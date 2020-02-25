@@ -13,12 +13,13 @@ body{
     background-color: rgba(255,255,255,0.5);
     font-family: 'Trade Winds';
 
-<<<<<<< HEAD
 }
 
 #header-section {
     color: white;
     background-color: orange;
 }
-=======
->>>>>>> 6e4ade21dc159fcfd50bd2ddc295ec5c8362d0b3
+
+#container{
+    background-color:rgba(255, 136, 0, 0.973);
+}
